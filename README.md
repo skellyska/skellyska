@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @skellyska
-- 👀 I’m interested in ...learning the basics of coding
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...a social betting app
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Full Stack Development
+- 💞️ I’m looking to collaborate on ... a social betting app
+- 📫 How to reach me ... skellyska@gmail.com
 
 <!---
 skellyska/skellyska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
