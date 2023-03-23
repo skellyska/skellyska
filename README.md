@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @skellyska
-- 👀 I’m interested in ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... a social betting app
+- 👀 I’m interested in ... Web Development
 - 📫 How to reach me ... skellyska@gmail.com
 
 <!---
