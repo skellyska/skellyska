@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skellyska
-- 👀 I’m interested in ... Web Development
+- 👀 I’m a Data Engineer
 - 📫 How to reach me ... skellyska@gmail.com
 
 <!---
